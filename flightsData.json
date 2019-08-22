@@ -1,0 +1,146 @@
+[
+    {
+      "origin": "Pune",
+      "destination": "Delhi",
+      "departDate": "2019-08-17",
+      "arrivalDate": "2019-08-17",
+      "departTime": "10:00 AM",
+      "arrivalTime": "12:00 PM",
+      "flightNumber": "AI-202",
+      "flightCompany": "Air India",
+      "price": 8547
+    },
+    {
+      "origin": "Delhi",
+      "destination": "Pune",
+      "departDate": "2019-08-18",
+      "arrivalDate": "2019-08-19",
+      "departTime": "10:00 PM",
+      "arrivalTime": "12:00 AM",
+      "flightNumber": "AI-256",
+      "flightCompany": "Air India",
+      "price": 4876
+    },
+    {
+      "origin": "Bangalore",
+      "destination": "Chandigarh",
+      "departDate": "2019-10-10",
+      "arrivalDate": "2019-10-10",
+      "departTime": "03:00 PM",
+      "arrivalTime": "05:15 PM",
+      "flightNumber": "IN-708",
+      "flightCompany": "Indigo",
+      "price": 5547
+    },
+    {
+      "origin": "Bangalore",
+      "destination": "Chandigarh",
+      "departDate": "2019-10-12",
+      "arrivalDate": "2019-10-12",
+      "departTime": "03:00 PM",
+      "arrivalTime": "05:15 PM",
+      "flightNumber": "IN-708",
+      "flightCompany": "Indigo",
+      "price": 5547
+    },
+    {
+      "origin": "Bangalore",
+      "destination": "Chandigarh",
+      "departDate": "2019-10-13",
+      "arrivalDate": "2019-10-13",
+      "departTime": "03:00 PM",
+      "arrivalTime": "05:15 PM",
+      "flightNumber": "IN-708",
+      "flightCompany": "Indigo",
+      "price": 6709
+    },
+    {
+      "origin": "Bangalore",
+      "destination": "Chandigarh",
+      "departDate": "2019-10-14",
+      "arrivalDate": "2019-10-14",
+      "departTime": "03:00 PM",
+      "arrivalTime": "05:15 PM",
+      "flightNumber": "IN-708",
+      "flightCompany": "Indigo",
+      "price": 5547
+    },
+    {
+      "origin": "Delhi",
+      "destination": "Chennai",
+      "departDate": "2019-10-01",
+      "arrivalDate": "2019-10-01",
+      "departTime": "03:00 PM",
+      "arrivalTime": "05:15 PM",
+      "flightNumber": "IN-708",
+      "flightCompany": "Indigo",
+      "price": 8765
+    },
+    {
+      "origin": "Delhi",
+      "destination": "Chennai",
+      "departDate": "2019-10-01",
+      "arrivalDate": "2019-10-01",
+      "departTime": "07:30 AM",
+      "arrivalTime": "09:45 AM",
+      "flightNumber": "IN-782",
+      "flightCompany": "Indigo",
+      "price": 5578
+    },
+    {
+      "origin": "Delhi",
+      "destination": "Chennai",
+      "departDate": "2019-10-01",
+      "arrivalDate": "2019-10-01",
+      "departTime": "01:00 PM",
+      "arrivalTime": "03:15 PM",
+      "flightNumber": "AI-888",
+      "flightCompany": "Air India",
+      "price": 7654
+    },
+    {
+      "origin": "Delhi",
+      "destination": "Chennai",
+      "departDate": "2019-10-01",
+      "arrivalDate": "2019-10-02",
+      "departTime": "11:00 PM",
+      "arrivalTime": "01:15 AM",
+      "flightNumber": "SJ-708",
+      "flightCompany": "Spice Jet",
+      "price": 6574
+    },
+    {
+      "origin": "Chennai",
+      "destination": "Delhi",
+      "departDate": "2019-10-10",
+      "arrivalDate": "2019-10-10",
+      "departTime": "03:00 PM",
+      "arrivalTime": "05:15 PM",
+      "flightNumber": "VI-345",
+      "flightCompany": "Vistaara",
+      "price": 4567
+    },
+    {
+      "origin": "Chennai",
+      "destination": "Delhi",
+      "departDate": "2019-10-10",
+      "arrivalDate": "2019-10-10",
+      "departTime": "07:00 PM",
+      "arrivalTime": "09:15 PM",
+      "flightNumber": "IN-897",
+      "flightCompany": "Indigo",
+      "price": 7623
+    },
+    {
+      "origin": "Chennai",
+      "destination": "Delhi",
+      "departDate": "2019-10-10",
+      "arrivalDate": "2019-10-10",
+      "departTime": "12:00 AM",
+      "arrivalTime": "02:15 PM",
+      "flightNumber": "AI-492",
+      "flightCompany": "Air India",
+      "price": 7456
+    }
+]
+  

@@ -1,0 +1,44 @@
+.tabs {
+    margin: 16px;
+    .tabs-label-wrapper {
+        font-size: 0;
+        padding-bottom: 2px;
+        margin-top: 5px;
+        .tab-label {
+            border: 1px solid black;
+            margin: 0;
+            margin-top: 3px;
+            padding: 3px;
+            border-radius: 5px 5px 0 0;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        .tab-label-selected {
+            .tab-label;
+            font-weight: bolder;
+            background-color: #e6e6e6;
+        }
+    }
+    .tab-content {
+        border: 1px solid black;
+        padding: 8px;
+        .tab-form-container {
+            margin: 5px;
+            display: flex;
+            align-items: center;
+            .tab-input-label {
+                width: 40%;
+                float: left;
+            }
+            .tab-input {
+                width: 60%;
+                float: right;
+            }
+        }
+        .tab-input-submit {
+            margin-top: 8px;
+            padding: 4px;
+            width: 100%;
+        }
+    }
+}
